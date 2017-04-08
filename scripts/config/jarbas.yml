@@ -1,0 +1,7 @@
+classifier:
+  - quais foram as irregularidades do deputado $deputado
+message:
+  - encontrei {#n_ocorrencias} ocorrências para o {#deputado}:
+  - ...
+  - quer ver os detalhes?
+  - Acesse esse link que criei para você (http://jarbas.serenata.org.br/123)

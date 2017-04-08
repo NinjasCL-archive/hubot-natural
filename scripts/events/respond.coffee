@@ -7,6 +7,7 @@ answers = {}
 class respond
   constructor: (@interaction) ->
   process: (msg) =>
+
     type = @interaction.type?.toLowerCase() or 'random'
     switch type
       when 'block'
